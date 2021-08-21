@@ -18,7 +18,7 @@ function main () {
     authorUrl
   } of plugins) {
     console.log(
-      `[**${name}**](${githubUrl}) | ${description} | [${authorName}](${authorUrl}) | [![installs](https://img.shields.io/endpoint?cacheSeconds=1800&url=https://yuanqing.github.io/figma-plugins-stats/plugin/${id}/installs.json)](https://figma.com/community/plugin/${id})`
+      `[${name}](${githubUrl}) | ${description} | [${authorName}](${authorUrl}) | [![installs](https://img.shields.io/endpoint?cacheSeconds=1800&url=https://yuanqing.github.io/figma-plugins-stats/plugin/${id}/installs.json)](https://figma.com/community/plugin/${id})`
     )
   }
 }
