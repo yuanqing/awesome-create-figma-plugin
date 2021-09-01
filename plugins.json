@@ -158,5 +158,13 @@
     "githubUrl": "https://github.com/yuanqing/figma-plugins/tree/main/packages/figma-upscale-image",
     "authorName": "Yuan Qing Lim",
     "authorUrl": "https://twitter.com/yuanqinglim"
+  },
+  {
+    "id": "742121299910255177",
+    "name": "RTL PLZ",
+    "description": "Write in RTL + Writing utilites",
+    "githubUrl": "https://github.com/saeedalipoor/RTLPLZ",
+    "authorName": "Saeed Alipoor",
+    "authorUrl": "https://twitter.com/Sali__Pure"
   }
 ]
