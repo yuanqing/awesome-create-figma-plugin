@@ -2,7 +2,7 @@
   "private": true,
   "type": "module",
   "scripts": {
-    "build": "markdown-interpolate README.md"
+    "build": "node scripts/prettify-plugins-json.js && markdown-interpolate README.md"
   },
   "devDependencies": {
     "markdown-interpolate": "^0.0.7"
