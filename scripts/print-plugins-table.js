@@ -5,8 +5,8 @@ import { fileURLToPath } from 'url'
 const __dirname = dirname(fileURLToPath(import.meta.url))
 
 function main () {
-  const pluginsFilePath = resolve(__dirname, '..', 'plugins.json')
-  const plugins = JSON.parse(fs.readFileSync(pluginsFilePath, 'utf8'))
+  const filePath = resolve(__dirname, '..', 'plugins.json')
+  const plugins = JSON.parse(fs.readFileSync(filePath, 'utf8'))
   console.log('Plugin | Description | Author | Installs')
   console.log(':--|:--|:--|:--')
   for (const {
