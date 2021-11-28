@@ -13,7 +13,7 @@
 ### Plugins
 
 <!-- markdown-interpolate: node scripts/print-table.js plugin -->
-*50 plugins by 25 authors*
+*51 plugins by 26 authors*
 
 Name | Description | Author
 :--|:--|:--
@@ -24,6 +24,7 @@ Name | Description | Author
 [**Component Utilities**](https://figma.com/community/plugin/785894722513806497) [(GitHub)](https://github.com/yuanqing/figma-plugins/tree/main/packages/figma-component-utilities) | Copy and create components, and replace layers with components | [Yuan Qing Lim](https://twitter.com/yuanqinglim)
 [**Copy & Rotate**](https://figma.com/community/plugin/1003651932772848456) [(GitHub)](https://github.com/alexwidua/figma-copy-and-rotate) | Create radial interfaces and patterns in Figma with instantiated, rotated copies of elements | [Alex Widua](https://twitter.com/alexwidua)
 [**Copy and Paste Autolayout**](https://figma.com/community/plugin/923016403442923783) | Copy and paste Auto Layout properties | [Maxim Artyushenko](https://figma.com/@maxart2007)
+[**Delete Multiple Pages**](https://figma.com/community/plugin/953656637827255284) | Delete multiple pages at once | [Maarten Zilverberg](https://twitter.com/mzilverberg)
 [**DhiWise**](https://figma.com/community/plugin/1037309320238203168) | Convert your design to Swift, Kotlin, or Flutter code | [DhiWise](https://dhiwise.com)
 [**Distribute Layers**](https://figma.com/community/plugin/767379264700569551) [(GitHub)](https://github.com/yuanqing/figma-plugins/tree/main/packages/figma-distribute-layers) | Distribute layers in a given direction and offset | [Yuan Qing Lim](https://twitter.com/yuanqinglim)
 [**Draw Connector**](https://figma.com/community/plugin/988836825341227586) | Draw perfect orthogonal connectors between layers | [Yuan Qing Lim](https://twitter.com/yuanqinglim)

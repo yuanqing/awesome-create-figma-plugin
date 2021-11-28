@@ -84,6 +84,18 @@
     ]
   },
   {
+    "id": "953656637827255284",
+    "name": "Delete Multiple Pages",
+    "description": "Delete multiple pages at once",
+    "githubUrl": null,
+    "authors": [
+      {
+        "name": "Maarten Zilverberg",
+        "url": "https://twitter.com/mzilverberg"
+      }
+    ]
+  },
+  {
     "id": "1037309320238203168",
     "name": "DhiWise",
     "description": "Convert your design to Swift, Kotlin, or Flutter code",
