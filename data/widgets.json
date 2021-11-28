@@ -1,0 +1,50 @@
+[
+  {
+    "id": "1045386129853518633",
+    "name": "Device Frames",
+    "description": "Scribble quick interfaces on device mockups in FigJam",
+    "githubUrl": "https://github.com/brechtknecht/Figjam-Device-Frames-Widget",
+    "authors": [
+      {
+        "name": "Felix Tesche",
+        "url": "https://twitter.com/mrfesch"
+      }
+    ]
+  },
+  {
+    "id": "1027276088284051809",
+    "name": "Graphpad",
+    "description": "Build data visualizations and graphs with the Vega-Lite language",
+    "githubUrl": null,
+    "authors": [
+      {
+        "name": "Cameron Yick",
+        "url": "https://twitter.com/hydrosquall"
+      }
+    ]
+  },
+  {
+    "id": "1028465458230585901",
+    "name": "Markdown Notes",
+    "description": "Write notes in Markdown",
+    "githubUrl": null,
+    "authors": [
+      {
+        "name": "Tekeste Kidanu",
+        "url": "https://twitter.com/tkmadeit"
+      }
+    ]
+  },
+  {
+    "id": "1037535899287211554",
+    "name": "Voting Sessions",
+    "description": "Run quick polls in FigJam",
+    "githubUrl": null,
+    "authors": [
+      {
+        "name": "Tekeste Kidanu",
+        "url": "https://twitter.com/tkmadeit"
+      }
+    ]
+  }
+]
