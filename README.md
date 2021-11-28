@@ -8,7 +8,9 @@
 - [v1 launch and overview of key features](https://twitter.com/yuanqinglim/status/1395027169869402113)
 - [Twitter Moment: Plugins/widgets for Figma/FigJam made with the Create Figma Plugin toolkit](https://twitter.com/i/events/1426897583817990154)
 
-## Plugins
+## References plugins/widgets
+
+### Plugins
 
 <!-- markdown-interpolate: node scripts/print-table.js plugin -->
 *50 plugins*
@@ -28,7 +30,7 @@ Name | Description | Author
 [**Draw Mask Under Selection**](https://figma.com/community/plugin/806532458729477508) [(GitHub)](https://github.com/yuanqing/figma-plugins/tree/main/packages/figma-draw-mask-under-selection) | Draw a mask under the selection | [Yuan Qing Lim](https://twitter.com/yuanqinglim)
 [**Draw Slice Over Selection**](https://figma.com/community/plugin/767379335945775056) [(GitHub)](https://github.com/yuanqing/figma-plugins/tree/main/packages/figma-draw-slice-over-selection) | Draw a slice over the selection | [Yuan Qing Lim](https://twitter.com/yuanqinglim)
 [**Easing Gradients**](https://figma.com/community/plugin/907899097995668330) [(GitHub)](https://github.com/alexwidua/figma-easing-gradients) | Create smooth gradient transitions with cubic easing functions | [Alex Widua](https://twitter.com/alexwidua)
-[**FigLink**](https://figma.com/community/plugin/981531596501862559) | Automatically replace layers with library components that have a matching name | [Saeed Alipoor](https://twitter.com/Sali__Pure)
+[**FigLink**](https://figma.com/community/plugin/981531596501862559) | Replace layers with library components that have a matching name | [Saeed Alipoor](https://twitter.com/Sali__Pure)
 [**FigTag**](https://figma.com/community/plugin/998914249119019489) | Apply tags to frames | [Saeed Alipoor](https://twitter.com/Sali__Pure)
 [**Find and Replace Colors**](https://figma.com/community/plugin/806266638862897503) | Find and replace colors | [Wei Zhong](https://figma.com/@wei)
 [**Flatten Selection to Bitmap**](https://figma.com/community/plugin/837846252158418235) [(GitHub)](https://github.com/yuanqing/figma-plugins/tree/main/packages/figma-flatten-selection-to-bitmap) | Rasterize layers at a high resolution | [Yuan Qing Lim](https://twitter.com/yuanqinglim)
@@ -67,7 +69,7 @@ Name | Description | Author
 [**Upscale Image**](https://figma.com/community/plugin/939832535166467194) [(GitHub)](https://github.com/yuanqing/figma-plugins/tree/main/packages/figma-upscale-image) | Upscale low resolution images using machine learning | [Yuan Qing Lim](https://twitter.com/yuanqinglim)
 <!-- end -->
 
-## Widgets
+### Widgets
 
 <!-- markdown-interpolate: node scripts/print-table.js widget -->
 *4 widgets*

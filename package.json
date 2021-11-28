@@ -4,8 +4,10 @@
   "scripts": {
     "build": "node scripts/prettify.js plugin && node scripts/prettify.js widget && markdown-interpolate README.md",
     "fix": "prettier-standard 'scripts/*.js'",
-    "scrape-plugin": "node scripts/scrape.js plugin",
-    "scrape-widget": "node scripts/scrape.js widget"
+    "scrape-plugins": "node scripts/scrape.js plugin",
+    "scrape-widgets": "node scripts/scrape.js widget",
+    "stats-plugins": "node scripts/compute-total-installs.js plugin",
+    "stats-widgets": "node scripts/compute-total-installs.js widget"
   },
   "devDependencies": {
     "markdown-interpolate": "^0.0.7",
