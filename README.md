@@ -8,12 +8,12 @@
 - [v1 launch and overview of key features](https://twitter.com/yuanqinglim/status/1395027169869402113)
 - [Twitter Moment: Plugins/widgets for Figma/FigJam made with the Create Figma Plugin toolkit](https://twitter.com/i/events/1426897583817990154)
 
-## References plugins/widgets
+## Reference plugins/widgets
 
 ### Plugins
 
 <!-- markdown-interpolate: node scripts/print-table.js plugin -->
-*50 plugins*
+*50 plugins by 25 authors*
 
 Name | Description | Author
 :--|:--|:--
@@ -72,7 +72,7 @@ Name | Description | Author
 ### Widgets
 
 <!-- markdown-interpolate: node scripts/print-table.js widget -->
-*4 widgets*
+*4 widgets by 3 authors*
 
 Name | Description | Author
 :--|:--|:--
@@ -88,7 +88,7 @@ The list is only for plugins/widgets that are:
 - Made using the Create Figma Plugin toolkit
 - Approved by Figma and available on [Figma Community](https://figma.com/community)
 
-Plugins/widgets should be added to [`plugins.json`](/data/plugins.json) or [`widgets.json`](/data/widgets.json). Then, run the `build` script to regenerate this `README.md` file.
+Plugins/widgets should be added to [`data/plugins.json`](/data/plugins.json) or [`data/widgets.json`](/data/widgets.json). Then, run the `build` script to regenerate this `README.md` file.
 
 ## See also
 
