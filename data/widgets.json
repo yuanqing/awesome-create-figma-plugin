@@ -36,6 +36,18 @@
     ]
   },
   {
+    "id": "1047172873295538762",
+    "name": "Teams",
+    "description": "Split up into teams, useful for virtual workshops",
+    "githubUrl": null,
+    "authors": [
+      {
+        "name": "Roman Nurik",
+        "url": "https://twitter.com/romannurik"
+      }
+    ]
+  },
+  {
     "id": "1037535899287211554",
     "name": "Voting Sessions",
     "description": "Run quick polls in FigJam",

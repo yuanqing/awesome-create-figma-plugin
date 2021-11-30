@@ -73,13 +73,14 @@ Name | Description | Author
 ### Widgets
 
 <!-- markdown-interpolate: node scripts/print-table.js widget -->
-*4 widgets by 3 authors*
+*5 widgets by 4 authors*
 
 Name | Description | Author
 :--|:--|:--
 [**Device Frames**](https://figma.com/community/widget/1045386129853518633) [(GitHub)](https://github.com/brechtknecht/Figjam-Device-Frames-Widget) | Scribble quick interfaces on device mockups in FigJam | [Felix Tesche](https://twitter.com/mrfesch)
 [**Graphpad**](https://figma.com/community/widget/1027276088284051809) | Build data visualizations and graphs with the Vega-Lite language | [Cameron Yick](https://twitter.com/hydrosquall)
 [**Markdown Notes**](https://figma.com/community/widget/1028465458230585901) | Write notes in Markdown | [Tekeste Kidanu](https://twitter.com/tkmadeit)
+[**Teams**](https://figma.com/community/widget/1047172873295538762) | Split up into teams, useful for virtual workshops | [Roman Nurik](https://twitter.com/romannurik)
 [**Voting Sessions**](https://figma.com/community/widget/1037535899287211554) | Run quick polls in FigJam | [Tekeste Kidanu](https://twitter.com/tkmadeit)
 <!-- end -->
 
