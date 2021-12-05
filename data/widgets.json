@@ -36,6 +36,18 @@
     ]
   },
   {
+    "id": "1047983508317374017",
+    "name": "Storymapper",
+    "description": "A story mapping widget to focus on outcomes instead of outputs",
+    "githubUrl": "https://github.com/WardMe/storymapper-widget",
+    "authors": [
+      {
+        "name": "Ward Meremans",
+        "url": "https://twitter.com/drawm"
+      }
+    ]
+  },
+  {
     "id": "1047172873295538762",
     "name": "Teams",
     "description": "Split up into teams, useful for virtual workshops",
