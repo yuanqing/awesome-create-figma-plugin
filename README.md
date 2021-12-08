@@ -13,15 +13,17 @@
 ### Plugins
 
 <!-- markdown-interpolate: node scripts/print-table.js plugin -->
-*51 plugins by 26 authors*
+*53 plugins by 27 authors*
 
 Name | Description | Author
 :--|:--|:--
 [**Alex**](https://figma.com/community/plugin/872001708828653182) [(GitHub)](https://github.com/nickradford/figma-plugin-alex) | Catch insensitive, inconsiderate writing | [Nick Radford](https://figma.com/@9742655e_9f3b_4)
 [**Amplitude Event Planner**](https://figma.com/community/plugin/921207224854227439) [(GitHub)](https://github.com/amplitude/amplitude-figma) | Annotate your design with Amplitude event labels | [Amplitude](https://figma.com/@amplitude)
 [**Clean Document**](https://figma.com/community/plugin/767379019764649932) [(GitHub)](https://github.com/yuanqing/figma-plugins/tree/main/packages/figma-clean-document) | Automagically organize and clean up your Figma document | [Yuan Qing Lim](https://twitter.com/yuanqinglim)
+[**Color Kitchen**](https://figma.com/community/plugin/1049477946127252395) | Create recipes for working with colors and color styles systematically, directly on the canvas where you can see what’s happening | [Richard Bruskowski](https://twitter.com/bruskowski)
 [**Color Picker for FigJam**](https://figma.com/community/plugin/1030933889092035687) | Apply a custom fill color to any object in your FigJam document | [Tekeste Kidanu](https://twitter.com/tkmadeit)
 [**Component Utilities**](https://figma.com/community/plugin/785894722513806497) [(GitHub)](https://github.com/yuanqing/figma-plugins/tree/main/packages/figma-component-utilities) | Copy and create components, and replace layers with components | [Yuan Qing Lim](https://twitter.com/yuanqinglim)
+[**Copy**](https://figma.com/community/plugin/1048003170461690444) | Copy properties of the selected layers from the Quick Actions bar | [Saeed Alipoor](https://twitter.com/Sali__Pure)
 [**Copy & Rotate**](https://figma.com/community/plugin/1003651932772848456) [(GitHub)](https://github.com/alexwidua/figma-copy-and-rotate) | Create radial interfaces and patterns in Figma with instantiated, rotated copies of elements | [Alex Widua](https://twitter.com/alexwidua)
 [**Copy and Paste Autolayout**](https://figma.com/community/plugin/923016403442923783) | Copy and paste Auto Layout properties | [Maxim Artyushenko](https://figma.com/@maxart2007)
 [**Delete Multiple Pages**](https://figma.com/community/plugin/953656637827255284) | Delete multiple pages at once | [Maarten Zilverberg](https://twitter.com/mzilverberg)
@@ -80,7 +82,7 @@ Name | Description | Author
 [**Device Frames**](https://figma.com/community/widget/1045386129853518633) [(GitHub)](https://github.com/brechtknecht/Figjam-Device-Frames-Widget) | Scribble quick interfaces on device mockups in FigJam | [Felix Tesche](https://twitter.com/mrfesch)
 [**Graphpad**](https://figma.com/community/widget/1027276088284051809) | Build data visualizations and graphs with the Vega-Lite language | [Cameron Yick](https://twitter.com/hydrosquall)
 [**Markdown Notes**](https://figma.com/community/widget/1028465458230585901) | Write notes in Markdown | [Tekeste Kidanu](https://twitter.com/tkmadeit)
-[**Storymapper**](https://figma.com/community/widget/1047983508317374017) [(GitHub)](https://github.com/WardMe/storymapper-widget) | A FigJam story mapping widget to focus on outcomes instead of outputs | [Ward Meremans](https://twitter.com/drawm)
+[**Storymapper**](https://figma.com/community/widget/1047983508317374017) [(GitHub)](https://github.com/WardMe/storymapper-widget) | A story mapping widget to focus on outcomes instead of outputs | [Ward Meremans](https://twitter.com/drawm)
 [**Teams**](https://figma.com/community/widget/1047172873295538762) | Split up into teams, useful for virtual workshops | [Roman Nurik](https://twitter.com/romannurik)
 [**Voting Sessions**](https://figma.com/community/widget/1037535899287211554) | Run quick polls in FigJam | [Tekeste Kidanu](https://twitter.com/tkmadeit)
 <!-- end -->

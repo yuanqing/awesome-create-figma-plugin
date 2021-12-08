@@ -36,6 +36,18 @@
     ]
   },
   {
+    "id": "1049477946127252395",
+    "name": "Color Kitchen",
+    "description": "Create recipes for working with colors and color styles systematically, directly on the canvas where you can see what’s happening",
+    "githubUrl": null,
+    "authors": [
+      {
+        "name": "Richard Bruskowski",
+        "url": "https://twitter.com/bruskowski"
+      }
+    ]
+  },
+  {
     "id": "1030933889092035687",
     "name": "Color Picker for FigJam",
     "description": "Apply a custom fill color to any object in your FigJam document",
@@ -56,6 +68,18 @@
       {
         "name": "Yuan Qing Lim",
         "url": "https://twitter.com/yuanqinglim"
+      }
+    ]
+  },
+  {
+    "id": "1048003170461690444",
+    "name": "Copy",
+    "description": "Copy properties of the selected layers from the Quick Actions bar",
+    "githubUrl": null,
+    "authors": [
+      {
+        "name": "Saeed Alipoor",
+        "url": "https://twitter.com/Sali__Pure"
       }
     ]
   },
