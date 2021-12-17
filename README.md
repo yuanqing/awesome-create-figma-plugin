@@ -75,12 +75,13 @@ Name | Description | Author
 ### Widgets
 
 <!-- markdown-interpolate: node scripts/print-table.js widget -->
-*6 widgets by 5 authors*
+*7 widgets by 5 authors*
 
 Name | Description | Author
 :--|:--|:--
 [**Device Frames**](https://figma.com/community/widget/1045386129853518633) [(GitHub)](https://github.com/brechtknecht/Figjam-Device-Frames-Widget) | Scribble quick interfaces on device mockups in FigJam | [Felix Tesche](https://twitter.com/mrfesch)
 [**Graphpad**](https://figma.com/community/widget/1027276088284051809) | Build data visualizations and graphs with the Vega-Lite language | [Cameron Yick](https://twitter.com/hydrosquall)
+[**Mad Lib**](https://figma.com/community/widget/1051929673182125608) | Fill in the blanks, together | [Roman Nurik](https://twitter.com/romannurik)
 [**Markdown Notes**](https://figma.com/community/widget/1028465458230585901) | Write notes in Markdown | [Tekeste Kidanu](https://twitter.com/tkmadeit)
 [**Storymapper**](https://figma.com/community/widget/1047983508317374017) [(GitHub)](https://github.com/WardMe/storymapper-widget) | A story mapping widget to focus on outcomes instead of outputs | [Ward Meremans](https://twitter.com/drawm)
 [**Teams**](https://figma.com/community/widget/1047172873295538762) | Split up into teams, useful for virtual workshops | [Roman Nurik](https://twitter.com/romannurik)
